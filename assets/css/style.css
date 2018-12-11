@@ -255,8 +255,8 @@ a,
   position: absolute;
   background: rgba(2, 2, 2, 0.4);
   content: " ";
-  height: 120%;
-  width: 120%;
+  height: 300%;
+  width: 300%;
   left: 0;
   top: 0;
 }
