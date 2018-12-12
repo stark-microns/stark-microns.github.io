@@ -104,7 +104,7 @@ var getYTPVideoID = function( url ) {
 				unit: "%"
 			},
 			hue_rotate: {
-				value: 0,
+				value: 33,
 				unit: "deg"
 			},
 			invert: {
@@ -116,7 +116,7 @@ var getYTPVideoID = function( url ) {
 				unit: "%"
 			},
 			saturate: {
-				value: 0,
+				value: 203,
 				unit: "%"
 			},
 			sepia: {
@@ -124,11 +124,11 @@ var getYTPVideoID = function( url ) {
 				unit: "%"
 			},
 			brightness: {
-				value: 0,
+				value: 82,
 				unit: "%"
 			},
 			contrast: {
-				value: 0,
+				value: 124,
 				unit: "%"
 			},
 			blur: {
