@@ -1262,6 +1262,11 @@ General Styles - Owlcarousel
   box-shadow: none;
 }
 
+.navbar-left{
+    width: 50px;
+    height: 50px;
+  }
+
 .navbar-custom .navbar-brand {
   letter-spacing: 4px;
   font-weight: 400;
@@ -2778,6 +2783,12 @@ Google map
 }
 
 @media (max-width: 767px) {
+
+  .navbar-left{
+    width: 20px;
+    height: 20px;
+  }
+
   /* Navbar */
   .navbar-custom .navbar-nav {
     letter-spacing: 3px;
