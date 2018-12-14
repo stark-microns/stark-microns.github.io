@@ -1934,13 +1934,14 @@ Google map
 }
 
 .work-title {
-  font-size: 14px;
+  font-size: 25px;
   color: #fff;
   margin: 0 0 6px;
 }
 
 .work-descr {
-  color: #aaa;
+  color: #808080;
+  font-size: 14px;
 }
 
 .work-item:hover .work-image:after {
