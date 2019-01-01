@@ -536,25 +536,21 @@
                           </div>
                           <div class="col-sm-4">
                             <div class="form-group">
-                              <select class="form-control">
-                                <option selected="true" disabled="">Select Product</option>
-                                <option value="1">Soda Feldspar</option>
-                                <option value="2">Potash Felspar</option>
-                                <option value="3">Quartz</option>
-                                <option value="4">Bentonite</option>
-                                <option value="5">Kaolin</option>
-                                <option value="6">Other</option>
-                              </select>
+                              <label class="sr-only" for="email">Name</label>
+                              <input class="form-control" id="email" type="text" name="email" placeholder="Product-Name"/>
                             </div>
                           </div>
                           <div class="col-sm-12">
                             <div class="form-group">
-                              <textarea class="form-control" id="" name="" rows="4" placeholder="Message"></textarea>
+                              <!-- <textarea class="form-control" id="" name="" rows="4" placeholder="Message"></textarea> -->
+                              <input class="form-control" id="message" type="text" rows="4" name="message" placeholder="Message"/>
                             </div>
                           </div>
+                          <input type="hidden" name="_next" value="soda-feldspar.html" />
                           <div class="col-sm-12">
                             <button class="btn btn-round btn-d" type="submit" value="Send">Submit</button>
                           </div>
+                          
                         </div>
                       </form>
                     </div>
