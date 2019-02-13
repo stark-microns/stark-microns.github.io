@@ -9,508 +9,103 @@
 
 <url>
   <loc>https://www.starkmicrons.com/</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/index.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/soda-feldspar.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/potash-feldspar.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/Quartz.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/Bentonite.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/Kaolin.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/products.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.starkmicrons.com/blog.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <loc>https://www.starkmicrons.com/construction.html</loc>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/about.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/manufacture.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.starkmicrons.com/index_portfolio.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_agency.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <loc>https://www.starkmicrons.com/Export.html</loc>
+  <lastmod>2019-02-13T15:30:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/Contact.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/faq.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.starkmicrons.com/index_mp_fullscreen_video_background.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://www.starkmicrons.com/blog.html</loc>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.starkmicrons.com/index_op_fullscreen_gradient_overlay.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://www.starkmicrons.com/blog-design.html</loc>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.starkmicrons.com/index_restaurant.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://www.starkmicrons.com/blog-events.html</loc>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.starkmicrons.com/index_landing.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://www.starkmicrons.com/terms.html</loc>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.starkmicrons.com/index_photography.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_shop.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_fullscreen_static.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_classic_static.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_fullscreen_flexslider.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_classic_flexslider.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_classic_video_background.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_fullscreen_text_rotator.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_classic_text_rotator.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_fullscreen_gradient_overlay.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/index_mp_classic_gradient_overlay.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/about1.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/about2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/about3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/about4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/about5.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/service1.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/service2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/service3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/pricing1.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/pricing2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/gallery_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/gallery_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/gallery_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/gallery_col_6.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/contact1.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/contact2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/contact3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/restaurant_menu1.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/restaurant_menu2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/login_register.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://www.starkmicrons.com/privacy.html</loc>
+  <lastmod>2019-02-13T15:30:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.starkmicrons.com/404.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
+  <lastmod>2019-02-13T15:30:01+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_boxed_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_boxed_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_boxed_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_boxed_gutter_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_boxed_gutter_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_boxed_gutter_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_full_width_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_full_width_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_full_width_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_full_width_gutter_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_full_width_gutter_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_full_width_gutter_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_masonry_boxed_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_masonry_boxed_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_masonry_boxed_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_masonry_full_width_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_masonry_full_width_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_masonry_full_width_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_hover_black.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_hover_gradient.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_single_featured_image1.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_single_featured_image2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_single_featured_slider1.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_single_featured_slider2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_single_featured_video1.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/portfolio_single_featured_video2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_standard_left_sidebar.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_standard_right_sidebar.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_grid_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_grid_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_grid_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_grid_masonry_col_2.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_grid_masonry_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_grid_masonry_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_single_left_sidebar.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/blog_single_right_sidebar.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/alerts-and-wells.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/buttons.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/tabs_and_accordions.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/content_box.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/forms.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/icons.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/progress-bars.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/typography.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/shop_product_col_3.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/shop_product_col_4.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/shop_single_product.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/shop_checkout.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/documentation.html</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.starkmicrons.com/about</loc>
-  <lastmod>2019-01-22T11:53:04+00:00</lastmod>
-  <priority>0.51</priority>
 </url>
 
 
